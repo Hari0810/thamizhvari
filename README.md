@@ -1,2 +1,2 @@
-# thamizhvari
-Daily puzzle to translate one sentence from English back into the original Tamil. 
+# Thamizh Vari
+Daily puzzle to translate one sentence from English back into its original Tamil. 
